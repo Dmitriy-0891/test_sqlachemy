@@ -20,3 +20,5 @@ build/output.json
 # Игнорировать всю папку logs, но отслеживать logs/.gitkeep
 logs/
 !logs/.gitkeep
+
+requirements.txt
